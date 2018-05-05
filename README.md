@@ -1,6 +1,6 @@
 # Java Syntax Highlighter #
 
->> Java Syntax Highlighter is discontinued.
+> Java Syntax Highlighter is discontinued.
 
 ## Menu ##
   * [Themes Demo](https://github.com/cws1989/java-syntax-highlighter/blob/wiki/ThemesDemo.md)
