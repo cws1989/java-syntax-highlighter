@@ -1,27 +1,25 @@
 # Themes Demo #
 
-
-
 ## Default theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDefault.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDefault.png)<br />
+![ThemeDefault](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDefault.png)
 
 ## Django theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDjango.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDjango.png)<br />
+![ThemeDjango](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDjango.png)
 
 ## Eclipse theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeEclipse.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeEclipse.png)<br />
+![ThemeEclipse](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeEclipse.png)
 
 ## Emacs theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeEmacs.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeEmacs.png)<br />
+![ThemeEmacs](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeEmacs.png)
 
 ## Fade to Grey theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeFadeToGrey.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeFadeToGrey.png)<br />
+![ThemeFadeToGrey](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeFadeToGrey.png)
 
 ## MD Ultra theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeMDUltra.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeMDUltra.png)<br />
+![ThemeMDUltra](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeMDUltra.png)
 
 ## Midnight theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeMidnight.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeMidnight.png)<br />
+![ThemeMidnight](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeMidnight.png)
 
 ## RDark theme ##
-![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeRDark.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeRDark.png)<br />
+![ThemeRDark](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeRDark.png)
