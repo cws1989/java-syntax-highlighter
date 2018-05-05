@@ -85,7 +85,7 @@ public class Example {
 ```**
 
 ## Sample Screenshot ##
-![http://java-syntax-highlighter.googlecode.com/svn/wiki/ThemesDemo/ThemeDefault.png](http://java-syntax-highlighter.googlecode.com/svn/wiki/ThemesDemo/ThemeDefault.png)
+![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDefault.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDefault.png)
 
 ## Support & Discussion ##
 [Support & Discussion Group](http://groups.google.com/group/java-syntax-highlighter)
