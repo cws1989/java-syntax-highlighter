@@ -1,6 +1,6 @@
 # Java Syntax Highlighter #
 
-## Java Syntax Highlighter is discontinued. ##
+>> Java Syntax Highlighter is discontinued.
 
 ## Menu ##
   * [Themes Demo](https://github.com/cws1989/java-syntax-highlighter/blob/wiki/ThemesDemo.md)
@@ -43,9 +43,9 @@ Default, Django, Eclipse, Emacs, Fade To Grey, MD Ultra, Midnight, RDark
 [Click here for a demo.](https://github.com/cws1989/java-syntax-highlighter/blob/wiki/ConfigurationsDemo.md)
 
 ## Example ##
-> **Note that this highlighter extends Swing component, so all operations are better be executed inside [Swing dispatching thread](http://en.wikipedia.org/wiki/Event_dispatching_thread'>Swing dispatching thread).**
+> **Note that this highlighter extends Swing component, so all operations are better be executed inside [Swing dispatching thread](http://en.wikipedia.org/wiki/Event_dispatching_thread).**
 
-```
+```java
 import java.io.*;
 import java.util.*;
 import java.util.logging.*;
