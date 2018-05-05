@@ -41,7 +41,8 @@ Default, Django, Eclipse, Emacs, Fade To Grey, MD Ultra, Midnight, RDark
 [Click here for a demo.](https://github.com/cws1989/java-syntax-highlighter/blob/wiki/ConfigurationsDemo.md)
 
 ## Example ##
-<font color='red'>Note that this highlighter extends Swing component, so all operations are better be executed inside <a href='http://en.wikipedia.org/wiki/Event_dispatching_thread'>Swing dispatching thread</a>.</font>**```
+<font color='red'>Note that this highlighter extends Swing component, so all operations are better be executed inside <a href='http://en.wikipedia.org/wiki/Event_dispatching_thread'>Swing dispatching thread</a>.</font>
+```
 import java.io.*;
 import java.util.*;
 import java.util.logging.*;
@@ -87,7 +88,7 @@ public class Example {
     });
   }
 }
-```**
+```
 
 ## Sample Screenshot ##
 ![https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDefault.png](https://raw.githubusercontent.com/cws1989/java-syntax-highlighter/wiki/ThemesDemo/ThemeDefault.png)
