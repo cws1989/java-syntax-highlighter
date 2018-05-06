@@ -98,3 +98,6 @@ public class Example {
 
 ## Support & Discussion ##
 [Support & Discussion Group](http://groups.google.com/group/java-syntax-highlighter)
+
+## Google Project ##
+https://code.google.com/archive/p/java-syntax-highlighter/
